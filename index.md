@@ -54,7 +54,7 @@ revealjs:
 ## ... and it can generate cool plots
 
 
-<iframe src=' figure/plot.html ' scrolling='no' frameBorder='0' seamless class='rChart nvd3 ' id=iframe- populationImpact ></iframe> <style>iframe.rChart{ width: 100%; height: 400px;}</style>
+<iframe src=' figure/plot.html ' scrolling='no' frameBorder='0' seamless class='rChart nvd3 ' id=iframe- populationImpact ></iframe> <style>iframe.rChart{ width: 100%; height: 500px;}</style>
 
 
 --- .custom
